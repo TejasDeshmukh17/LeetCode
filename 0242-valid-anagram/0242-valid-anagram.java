@@ -5,18 +5,18 @@ class Solution {
         return false;
        } 
 
-       HashMap<Character,Integer> count = new HashMap<>();
+       int[] count = new int[26]; 
 
        for(char c : s.toCharArray())
        {
-        count.put(c,count.getOrDefault(c,0)+1);
+        count[c-'a']++;
        }
        for(char c : t.toCharArray())
        {
-        count.put(c,count.getOrDefault(c,0)-1);
+        count[c-'a']--;
        }
 
-       for(int values : count.values())
+       for(int values : count)
        {
         if(values != 0)
         {
