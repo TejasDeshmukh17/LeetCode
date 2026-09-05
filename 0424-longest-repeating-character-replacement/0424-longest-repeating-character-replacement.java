@@ -1,43 +1,32 @@
 class Solution {
-
-    public int find(int[] freq) {
-        int maxCount = -1;
-
-        for (int i = 0; i < 256; i++) {
-            maxCount = Math.max(maxCount, freq[i]);
-        }
-
-        return maxCount;
-    }
-
     public int characterReplacement(String s, int k) {
-        int n = s.length();
-        int[] freq = new int[256];
+        int[] count = new int[26];
+        int left = 0;
+        int maxF = 0;
+        int maxL = 0;
+         
+        for(int right = 0; right<s.length();right++)
+        {
+            count[s.charAt(right) - 'A']++;
 
-        int low = 0;
-        int res = Integer.MIN_VALUE;
+            maxF = Math.max(
+                maxF,
+                 count[s.charAt(right) - 'A']
+            );
 
-        for (int high = 0; high < n; high++) {
-
-            freq[s.charAt(high)]++;
-
-            int maxCount = find(freq);
-            int len = high - low + 1;
-            int diff = len - maxCount;
-
-            while (diff > k) {
-                freq[s.charAt(low)]--;
-                low++;
-
-                maxCount = find(freq);
-                len = high - low + 1;
-                diff = len - maxCount;
+            while((right - left + 1) - maxF > k) 
+            {
+             count[s.charAt(left)-'A']--;
+            left++;
             }
+        
+        maxL = Math.max(
+            maxL,
+            right - left + 1
+        );
 
-            len = high - low + 1;
-            res = Math.max(res, len);
         }
+            return maxL;
 
-        return res;
-    }
+}
 }
