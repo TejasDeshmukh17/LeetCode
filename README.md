@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [3524-find-x-value-of-array-i](https://github.com/TejasDeshmukh17/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [3524-find-x-value-of-array-i](https://github.com/TejasDeshmukh17/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/TejasDeshmukh17/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
