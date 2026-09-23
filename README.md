@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0152-maximum-product-subarray) |
