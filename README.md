@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/TejasDeshmukh17/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
