@@ -3,23 +3,23 @@ class Solution {
        Stack<Integer> stack = new Stack<>();
        stack.push(0);
 
-       for(char ch : s.toCharArray())
+       for(char c : s.toCharArray())
        {
-        if(ch == '(')
+        if(c == '(')
         {
             stack.push(0);
         }
         else {
-            int innerScore = stack.pop();
+            int inScore = stack.pop();
             int score;
 
-            if(innerScore == 0)
+            if(inScore == 0)
             {
                 score = 1;
             }
             else 
             {
-                score = 2 * innerScore;
+                score = 2 * inScore;
             }
 
             stack.push(stack.pop()  + score);
