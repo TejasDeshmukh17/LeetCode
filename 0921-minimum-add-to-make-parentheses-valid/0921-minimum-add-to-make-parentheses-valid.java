@@ -2,9 +2,9 @@ class Solution {
     public int minAddToMakeValid(String s) {
         int open = 0;
         int add = 0;
-        for (char ch : s.toCharArray())
+        for (char c : s.toCharArray())
         {
-            if(ch == '(')
+            if(c == '(')
             {
                 open++;
             }
