@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -203,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
