@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0904-fruit-into-baskets](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TejasDeshmukh17/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TejasDeshmukh17/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TejasDeshmukh17/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TejasDeshmukh17/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/TejasDeshmukh17/LeetCode/tree/master/3524-find-x-value-of-array-i) |
