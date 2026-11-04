@@ -112,7 +112,6 @@ class Solution {
             Arrays.fill(dp[j], INF);
         }
 
-        // Zero subarrays require zero operations
         for (int i = 0; i <= n; i++) {
             dp[0][i] = 0;
         }
@@ -121,10 +120,8 @@ class Solution {
 
             for (int i = 1; i <= n; i++) {
 
-                // Skip current element
                 dp[j][i] = dp[j][i - 1];
 
-                // Select window ending at i - 1
                 if (i >= x && dp[j - 1][i - x] != INF) {
 
                     long take = dp[j - 1][i - x]
